@@ -149,7 +149,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 1eb34add16d6d2a48afac303d197fe7a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  radius: 0.1
+  radius: 0.2
   segments: 200
   lineColor: {r: 0, g: 0, b: 0, a: 1}
   x: 0
@@ -685,7 +685,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   outerCircle: {fileID: 1401846240}
   centerCircle: {fileID: 501212264}
-  maxDistance: 1
+  maxDistance: 0.9
 --- !u!4 &1456217517
 Transform:
   m_ObjectHideFlags: 0
